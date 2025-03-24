@@ -52,7 +52,9 @@
 
 - 단발성 프로젝트가 아니고, 계속 이용할 페이지이기 때문에 PasS 의존도를 낮추기 위한 선택.
 
-배포 자동화: **GitHub Actions** - Github Pages 를 통한 배포 시 최적의 선택지
+배포 자동화: **GitHub Actions**
+
+- Github Pages 를 통한 배포 시 최적의 선택지
 
 ### 프로젝트 구조
 
