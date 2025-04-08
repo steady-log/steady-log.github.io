@@ -1,0 +1,25 @@
+{
+  "name": "steady-log",
+  "version": "1.0.0",
+  "description": "## 목적",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steady-log/steady-log.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steady-log/steady-log.github.io/issues"
+  },
+  "homepage": "https://github.com/steady-log/steady-log.github.io#readme",
+  "dependencies": {
+    "astro": "^5.6.1"
+  }
+}
